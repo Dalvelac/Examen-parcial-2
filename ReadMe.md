@@ -1,3 +1,5 @@
+https://github.com/Dalvelac/Examen-parcial-2/
+
 # Examen Parcial 2
 
 Este proyecto contiene cuatro ejercicios en C++ que abarcan diferentes conceptos básicos de programación, como condicionales, estructuras de control, arreglos y cálculo de promedio. Cada ejercicio está diseñado para practicar habilidades específicas en programación.
@@ -43,9 +45,5 @@ Este programa simula una promoción de tienda donde el cliente puede llevarse tr
 1. Ejecute el programa.
 2. Ingrese el precio de tres artículos cuando se le solicite.
 3. El programa mostrará el total a pagar, aplicando la promoción.
-
-## Compilación
-
-Para compilar estos ejercicios, asegúrese de tener `CMake` instalado. Ejecute los siguientes comandos en la raíz del proyecto:
 
 
