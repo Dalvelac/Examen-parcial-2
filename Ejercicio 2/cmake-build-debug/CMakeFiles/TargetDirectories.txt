@@ -1,3 +1,0 @@
-C:/Users/v3rmu/CLionProjects/Examen-parcial-2/Ejercicio 2/cmake-build-debug/CMakeFiles/Ejericicio_2.dir
-C:/Users/v3rmu/CLionProjects/Examen-parcial-2/Ejercicio 2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/v3rmu/CLionProjects/Examen-parcial-2/Ejercicio 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
